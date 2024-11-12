@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//afrizalputra.my.id/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://afrizalputra.my.id/</loc>
+		<lastmod>2024-07-02T08:51:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://afrizalputra.my.id/wp-content/uploads/2024/06/WhatsApp-Image-2024-07-01-at-09.07.16-e1719890447808-294x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://afrizalputra.my.id/wp-content/uploads/2024/06/WhatsApp-Image-2024-07-01-at-09.07.162-e1719890333112-294x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://afrizalputra.my.id/wp-content/uploads/2024/06/WhatsApp-Image-2024-07-01-at-09.26.22-e1719890587951-294x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://afrizalputra.my.id/wp-content/uploads/2024/06/pngwing.com3_.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://afrizalputra.my.id/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://afrizalputra.my.id/home/</loc>
+		<lastmod>2024-06-27T08:40:03+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://afrizalputra.my.id/laman-contoh/</loc>
+		<lastmod>2024-06-25T07:56:56+00:00</lastmod>
+	</url>
+</urlset>
